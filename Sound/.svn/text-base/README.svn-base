@@ -1,9 +1,0 @@
-/etc/openal et modifier le fichier alsoft.conf
-
-transformer
-
-#drivers = pulse,alsa,oss,solaris,dsound,winmm,port,null,wave
-
-par
-
-drivers = alsa,pulse,oss,solaris,dsound,winmm,port,null,wave
